@@ -2,9 +2,8 @@
 
 Numpy like array object for common lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/digikar99/dense-arrays.git   |
-| commit  | 1a0b933  |
-| systems | dense-arrays |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------------------------|
+| source  | git:https://github.com/digikar99/dense-arrays.git     |
+| commit  | 45f63b0                                               |
+| systems | dense-arrays dense-arrays-plus-lite dense-arrays-plus |
+|---------+-------------------------------------------------------|
