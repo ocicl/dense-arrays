@@ -4,6 +4,6 @@ Numpy like array object for common lisp
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/digikar99/dense-arrays.git     |
-| commit  | 0e19d3f                                               |
+| commit  | add9d8e                                               |
 | systems | dense-arrays dense-arrays-plus-lite dense-arrays-plus |
 |---------+-------------------------------------------------------|
