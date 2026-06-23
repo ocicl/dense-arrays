@@ -7,4 +7,4 @@ Numpy like array object for common lisp
 | commit  | b241ccc                                               |
 | systems | dense-arrays dense-arrays-plus-lite dense-arrays-plus |
 |---------+-------------------------------------------------------|
- 
+  
